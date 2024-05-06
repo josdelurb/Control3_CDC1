@@ -2,8 +2,8 @@ package cdc1.controller;
 
 import cdc1.entities.Coche;
 import cdc1.model.JPACocheDao;
-/* Nombre:
- * UVUS:  */
+/* Nombre: Jose Luis del Trigo
+ * UVUS: josdelurb  */
 public class Main {
 
 	public static void main(String[] args) {
